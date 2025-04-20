@@ -5,7 +5,7 @@ This is a simple single-page project showcasing a clean and modern design for a 
 
 ## Screenshot
 
-![Project Screenshot](output/Screenshot.png)
+![Project Screenshot](output/screenshot.png)
 
 ## Technologies Used
 
